@@ -1,4 +1,4 @@
 # hello_world
-just one simple project
+Just one simple project.
 
-Hubot here,I like ML and CV.
+Hello here, a MLer and CVer.
